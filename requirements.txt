@@ -5,4 +5,3 @@ exp10it
 Crypto
 click
 pycryptodome
-#Python\Python36\Lib\site-packages，找到这个路径，下面有一个文件夹叫做crypto,将小写c改成大写C

@@ -21,6 +21,7 @@ git clone https://github.com/xkx518/CodeTest.git
 cd CodeTest
 # 安装依赖
 pip3 install -r requirements.txt
+注意：Python\Python36\Lib\site-packages，找到这个路径，下面有一个文件夹叫做crypto,将小写c改成大写C
 # 使用工具
 双击 CodeTest.pyw
 pythonw3 CodeTest.pyw
